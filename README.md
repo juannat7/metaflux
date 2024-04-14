@@ -2,7 +2,9 @@
 This repository contains the code that accompanies the paper `Nathaniel, J., Liu, J. & Gentine, P. MetaFlux: Meta-learning global carbon fluxes from sparse spatiotemporal observations. Sci Data 10, 440 (2023). https://doi.org/10.1038/s41597-023-02349-y`. 
 
 ## Updates
-[__Mar 2024__] We extended the daily/monthly global (0.25-degree) dataset to now include the years 2001-2023, freely available at https://zenodo.org/records/10846253
+[__Apr_2024 (v3.1)__] We fixed all coordinate names and values to be identical across daily and monthly data, freely available at https://zenodo.org/records/10970911
+
+[__Mar 2024 (v3.0)__] We extended the daily/monthly global (0.25-degree) dataset to now include the years 2001-2023, freely available at https://zenodo.org/records/10846253
 
 [__Jul 2023__] The resulting dataset of global, high-resolution (0.25-degree), long-term (daily/monthly 2001-2021) gross primary production and ecosystem respiration are available in Zenodo at https://doi.org/10.5281/zenodo.7761881.
 
